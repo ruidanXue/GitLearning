@@ -3,3 +3,6 @@ i am a student
 i want a home
 i am a teacher
 end line
+end line1
+end line2
+
